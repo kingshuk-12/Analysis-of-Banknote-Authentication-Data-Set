@@ -8,6 +8,10 @@ Models are:
 
 Dataset description Link: https://archive.ics.uci.edu/ml/datasets/banknote+authentication
 
+Libraries used:
+
+1. Scikit-Learn
+2. Pandas
 
 
 
